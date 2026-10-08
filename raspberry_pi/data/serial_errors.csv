@@ -1,0 +1,5 @@
+timestamp,message
+2026-10-08 17:59:52,ESP32 is not connected on COM3
+2026-10-08 18:00:00,ESP32 is not connected on COM3
+2026-10-08 18:33:40,"invalid JSON: e{""protocol_version"":""1.0"",""device_id"":""esp32_hydro_001"",""sequence"":1,""ph"":6.2,""ec_tds"":850,""water_level"":75,""water_temp"
+2026-10-08 18:33:41,ESP32 is not connected on COM5
